@@ -67,9 +67,9 @@
 		<p>If you have a demanding event concept but don't want to put too much work into planning the food, a new foodservice concept that needs methodical R&D, a class that could benefit from a hands-on lecture about science topics, or similar projects, let's talk. I'm an experienced event chef and available as a freelance consultant.</p>
 	</article>
 
-	<section id="gallery">
+	<!-- <section id="gallery">
 		<AutoGallery />
-	</section>
+	</section> -->
 </section>
 
 <style>
