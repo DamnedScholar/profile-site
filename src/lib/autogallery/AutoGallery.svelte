@@ -1,10 +1,10 @@
 <script>
-    import { readdir } from 'fs/promises'
+    // import { readdir } from 'fs/promises'
 
     import Gallery from 'svelte-image-gallery'
 
     async function setup() {
-        let images = await readdir('static/gallery')
+        let images = []
         return images
     }
 </script>
